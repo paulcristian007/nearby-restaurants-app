@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:13:03.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="CgrxyH4JR52px4chYLEc" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:14:00.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bWtLqZ6nwQXrf9HQO8zX" version="24.4.10" type="github">
   <diagram name="Pagină-1" id="sLzx4GGvLke_HAknfn0S">
     <mxGraphModel dx="1050" dy="609" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,11 +49,11 @@
         <mxCell id="mSZfPLE60trjO65rIiRt-17" value="wait download" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="297" y="263" width="80" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="mSZfPLE60trjO65rIiRt-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="450" y="125" width="20" height="145" as="geometry" />
+        <mxCell id="mSZfPLE60trjO65rIiRt-21" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="404" y="150" width="20" height="119" as="geometry" />
         </mxCell>
         <mxCell id="mSZfPLE60trjO65rIiRt-22" value="parallel" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="192.5" width="70" height="10" as="geometry" />
+          <mxGeometry x="424" y="204.5" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="mSZfPLE60trjO65rIiRt-23" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="30" y="400" width="40" height="40" as="geometry" />
